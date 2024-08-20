@@ -1,0 +1,7 @@
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\bin\Debug\ConsoleQuestGameLife.exe.config
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\bin\Debug\ConsoleQuestGameLife.exe
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\bin\Debug\ConsoleQuestGameLife.pdb
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\obj\Debug\ConsoleQuestGameLife.csproj.AssemblyReference.cache
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\obj\Debug\ConsoleQuestGameLife.csproj.CoreCompileInputs.cache
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\obj\Debug\ConsoleQuestGameLife.exe
+D:\0 My Files\My Program\Csharp\ConsoleQuestGameLife\ConsoleQuestGameLife\obj\Debug\ConsoleQuestGameLife.pdb
